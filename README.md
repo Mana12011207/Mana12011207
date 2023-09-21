@@ -1,6 +1,5 @@
 ### I am Mana Misumi ❌　 Full stack Developer
 
-## Hello, I am Mana and  
 
 <!--
 **Mana12011207/Mana12011207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
