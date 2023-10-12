@@ -1,4 +1,4 @@
-### I am Mana Misumi ❌　 Full stack Developer
+
 
 
 <!--
