@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mana12011207&theme=panda&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mana12011207&theme=panda&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
