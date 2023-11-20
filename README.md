@@ -1,7 +1,7 @@
 # Hi there, I'm Mana Misumi🌱
 ✨Enjoying my journey to become a full-stack developer!
 
-🔥 Here are the Programming languages I work with:
+🔥 Here are the programming languages I work with:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=5%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
