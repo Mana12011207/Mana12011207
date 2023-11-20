@@ -1,5 +1,5 @@
 # Hi there, I'm Mana Misumi🌱
-Enjoying my journey to become a full-stack developer!
+## Enjoying my journey to become a full-stack developer!
 
 Here are the Programming languages I work with:
 <p>
@@ -12,15 +12,12 @@ Here are the Programming languages I work with:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=5%/>          
 </p>
 
- <a href="https://www.linkedin.com/in/mana-misumi-291276262/" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Profile" style="width: 100px; height: 100px;">
- </a>
+
+ ### 📫 How to reach to me => [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/)
 
 
-          
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mana12011207&show_icons=true)
 
 
 
