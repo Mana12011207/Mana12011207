@@ -13,7 +13,7 @@
 </p>
 
 
- ### 📫 How to reach to me => [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/)
+ ### 📫 How to reach to me => [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/) or mana.misumi3050@gmail.com
 
 
 
