@@ -1,9 +1,9 @@
-# Hi, I'm Mana Misumi
-# Junior Web Developer🌱
+# Hi, I'm Mana Misumi, a Junior Web Developer🌱
 
-<h2>Enjoying my journey to become a full-stack developer!</h2>
-<h3>A Little About Myself</h3>
+<h2>Enjoying my journey to become a junior web developer!</h2>
+<h3>🌼A Little About Myself🌼</h3>
 <p>My background lies in hotel and tourism management, but I have decided to pursue a career change into web development. This decision is driven by my deep fascination with the digital world – particularly how websites and applications are designed and function. The ever-evolving nature of technology, its capacity to connect people, and the creative possibilities it offers in crafting user experiences resonate strongly with me. </p>
+
 
 
 🔥 Here are the technical skills I work with:
@@ -18,4 +18,6 @@
 </p>
 
 
- ### 📫 How to reach to me => [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/) or mana.misumi3050@gmail.com
+ ### 📫 How to reach to me
+ - [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/)
+ - 📧mana.misumi3050@gmail.com
