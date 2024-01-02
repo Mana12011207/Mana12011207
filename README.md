@@ -6,7 +6,7 @@
 
 
 
-🔥 Here are the technical skills I work with:
+<h2>🔥 Here are the technical skills I work with:</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=5%/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=5%/>
@@ -18,6 +18,6 @@
 </p>
 
 
- ### 📫 How to reach to me
+ <h2>📫 How to reach to me</h2>
  - [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/)
  - 📧mana.misumi3050@gmail.com
