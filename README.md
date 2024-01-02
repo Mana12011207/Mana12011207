@@ -2,7 +2,8 @@
 # Junior Web Developer🌱
 
 <h2>Enjoying my journey to become a full-stack developer!</h2>
-<p>I'm passionate about lies in developing user-friendly interfaces that enhance the functionality and accessibility of web applications.</p>
+<h3>A Little About Myself</h3>
+<p>My background lies in hotel and tourism management, but I have decided to pursue a career change into web development. This decision is driven by my deep fascination with the digital world – particularly how websites and applications are designed and function. The ever-evolving nature of technology, its capacity to connect people, and the creative possibilities it offers in crafting user experiences resonate strongly with me. </p>
 
 
 🔥 Here are the technical skills I work with:
