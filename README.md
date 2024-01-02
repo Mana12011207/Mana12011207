@@ -20,6 +20,6 @@ The ever-evolving nature of technology, its capacity to connect people, and the 
 
 
  <h3>📫 How to reach to me</h3>
- [![Linkdin](https://icons8.com/icon/67570/linkedin)](www.linkedin.com/in/mana-misumi)
+ (![image](https://github.com/Mana12011207/Mana12011207/assets/126526974/4f4eed71-5390-4c02-8c8e-b06733b1a5a6)](www.linkedin.com/in/mana-misumi))
 
  <p>📩mana.misumi3050@gmail.com</p>
