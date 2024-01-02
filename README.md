@@ -20,5 +20,5 @@ The ever-evolving nature of technology, its capacity to connect people, and the 
 
 
  <h3>📫 How to reach to me</h3>
-<i class="fa-brands fa-linkedin">(www.linkedin.com/in/mana-misumi))</i>
- <p>📩mana.misumi3050@gmail.com</p>
+<p>🔗LinkdIn: www.linkedin.com/in/mana-misumi</p>
+ <p>📩Email: mana.misumi3050@gmail.com</p>
