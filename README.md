@@ -1,5 +1,7 @@
-# I'm Mana Misumi, junior web developer🌱
-✨Enjoying my journey to become a full-stack developer!
+# I'm Mana Misumi
+# Junior web developer🌱
+
+✨Enjoying my journey to become a full-stack developer! 
 
 🔥 Here are the technical skills I work with:
 <p>
@@ -14,24 +16,3 @@
 
 
  ### 📫 How to reach to me => [Linkdin](https://www.linkedin.com/in/mana-misumi-291276262/) or mana.misumi3050@gmail.com
-
-
-
-
-
-
-
-<!--
-**Mana12011207/Mana12011207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
