@@ -1,4 +1,4 @@
-# Hi, I'm Mana Misumi, a Junior Web Developer🌱
+# Hi, I'm Mana Misumi, Junior Web Developer🌱
 
 <h2>Enjoying my journey to become a junior web developer!</h2>
 <h3>🌼A Little About Myself🌼</h3>
