@@ -1,7 +1,9 @@
 # Hi, I'm Mana Misumi
 # Junior web developer🌱
 
-✨Enjoying my journey to become a full-stack developer! 
+<h2>✨Enjoying my journey to become a full-stack developer!</h2>
+<p>I'm passionate about lies in developing user-friendly interfaces that enhance the functionality and accessibility of web applications.</p>
+
 
 🔥 Here are the technical skills I work with:
 <p>
