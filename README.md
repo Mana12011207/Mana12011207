@@ -2,8 +2,7 @@
 <h1>Hi, I'm Mana Misumi, Junior Web Developer🌱</h1>
 
 <h3>🌼A Little About Myself🌼</h3>
-<p>My background is rooted in nearly 10 years of experience in hospitality management, during which I developed strong customer service skills, problem-solving abilities, and team management expertise. I am now leveraging these skills as a full-stack developer in the IT industry. I have a deep interest in how IT technologies are designed and function to drive innovation in people's lives and businesses. In this ever-evolving world of technology, I am passionate about connecting people, solving challenges, and delivering creative solutions that enhance efficiency and effectiveness.</p>
-
+<p>My background is rooted in nearly 10 years of experience in hospitality management, during which I developed strong customer service skills, problem-solving abilities, and team management expertise. I am now leveraging these skills as a freelance full-stack developer, independently handling projects that span from web design to web development. This role allows me to apply my expertise in understanding client needs, delivering tailored solutions, and creating impactful digital experiences..</p>
 
 
 <h3>🔥 Here are the technical skills I work with:</h3>
