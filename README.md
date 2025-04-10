@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=5%/>          
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mana12011207)]
+![trophy](https://github-profile-trophy.vercel.app/?username=mana12011207)
  <h3>📫 How to reach to me</h3>
 <p>🔗LinkdIn: www.linkedin.com/in/mana-misumi</p>
  <p>📩Email: jmk35.1207@gmail.com</p>
