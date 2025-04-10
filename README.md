@@ -1,3 +1,9 @@
+ <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+    </style>
 <h1>Hi, I'm Mana Misumi, Junior Web Developer🌱</h1>
 
 <h3>🌼A Little About Myself🌼</h3>
