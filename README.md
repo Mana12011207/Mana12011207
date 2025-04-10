@@ -2,8 +2,7 @@
 
 <h2>Enjoying my journey to become a junior web developer!</h2>
 <h3>🌼A Little About Myself🌼</h3>
-<p>My background lies in hotel and tourism management, but I have decided to pursue a career change into web development. This decision is driven by my deep fascination with the digital world – particularly how websites and applications are designed and function.
-The ever-evolving nature of technology, its capacity to connect people, and the creative possibilities it offers in crafting user experiences resonate strongly with me.</p>
+<p>My background is rooted in nearly 10 years of experience in hospitality management, during which I developed strong customer service skills, problem-solving abilities, and team management expertise. I am now leveraging these skills as a full-stack developer in the IT industry. I have a deep interest in how IT technologies are designed and function to drive innovation in people's lives and businesses. In this ever-evolving world of technology, I am passionate about connecting people, solving challenges, and delivering creative solutions that enhance efficiency and effectiveness.</p>
 
 
 
@@ -21,4 +20,4 @@ The ever-evolving nature of technology, its capacity to connect people, and the 
 
  <h3>📫 How to reach to me</h3>
 <p>🔗LinkdIn: www.linkedin.com/in/mana-misumi</p>
- <p>📩Email: mana.misumi3050@gmail.com</p>
+ <p>📩Email: jmk35.1207@gmail.com</p>
